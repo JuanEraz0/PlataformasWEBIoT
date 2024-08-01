@@ -2,6 +2,7 @@
 //ejemplo con var
 
 var i =0;
+console.log(i);
 
 if (true){
     var i = 4;
@@ -15,7 +16,7 @@ console.log(i);
 let j =0;
 
 if (true){
-    let j = 4;
+    let j = 5;
     console.log(j);
 }
 
